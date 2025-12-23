@@ -2,11 +2,6 @@
 
 This repository presents a seasonal analysis of solar photovoltaic (PV) performance using visualisations and metrics such as Capacity Utilisation Factor (CUF%), Global Horizontal Irradiance (GHI), and energy output. The dashboard helps identify how environmental conditions affect solar energy yield across different seasons.
 
-## Dashboard Preview
-
-![Photovoltaic Performance Dashboard](images/dashboard.png)
-
-
 ## Dashboard Features
 
 - **Line Chart**: Tracks monthly CUF% from January to November 2023, showing seasonal trends.
