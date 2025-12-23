@@ -48,7 +48,7 @@ where:
 
 ---
 
-## 🔄 Howland Current Source Integrator
+## Howland Current Source Integrator
 Advantages over traditional op-amp integrators:
 - Easier initialisation of initial conditions  
 - Better stability & linearity  
